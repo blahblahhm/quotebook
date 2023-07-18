@@ -1,0 +1,3 @@
+happiness 1
+happiness 2
+happiness 3
